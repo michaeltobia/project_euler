@@ -6,3 +6,5 @@ while i<1000:
         sum += i
     i += 1
     print i
+
+# sum = 20003
